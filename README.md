@@ -49,4 +49,4 @@ Invoke any skill by its name, for example:
 
 ## Licence
 
-MIT. See [LICENSE](LICENSE). Original work © Corey Haines; AAO modifications © Aus Asia Online.
+Distributed under the MIT licence. See [LICENSE](LICENSE).
