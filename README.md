@@ -2,8 +2,6 @@
 
 Marketing skills for Claude Code, used by [Aus Asia Online](https://ausasiaonline.com.au). Forty-four skills covering CRO, copywriting, SEO, AI SEO, paid ads, ad creative, growth, and more. Each one is `aao-` prefixed so it sits cleanly alongside the built-in Anthropic skills without name clashes.
 
-Based on [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (MIT), renamed for the AAO workspace.
-
 ## Install
 
 ### As a plugin (works in CLI and the browser-based Claude Code)
