@@ -1,0 +1,18 @@
+{
+  "name": "aao-marketing-skills",
+  "owner": {
+    "name": "Aus Asia Online",
+    "url": "https://ausasiaonline.com.au"
+  },
+  "metadata": {
+    "description": "Aus Asia Online marketing skills for Claude Code — CRO, copywriting, SEO, AI SEO, paid ads, ad creative, and growth.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "aao-marketing-skills",
+      "description": "44 marketing skills, aao- prefixed: CRO, copywriting, cold email, prospecting, SEO, AI SEO, paid ads, SMS, ad creative, video, image, co-marketing, churn prevention, pricing, referrals, revops, sales enablement, customer research, site architecture, marketing plans, public relations, and more.",
+      "source": "./"
+    }
+  ]
+}

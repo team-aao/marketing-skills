@@ -1,0 +1,11 @@
+{
+  "name": "aao-marketing-skills",
+  "description": "Aus Asia Online marketing skills for Claude Code — CRO, copywriting, SEO, AI SEO, paid ads, ad creative, and growth. Based on coreyhaines31/marketingskills (MIT), renamed with the aao- prefix.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aus Asia Online"
+  },
+  "homepage": "https://ausasiaonline.com.au",
+  "license": "MIT",
+  "skills": "./skills"
+}

@@ -1,0 +1,13 @@
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
+.~lock.*#
+~$*
+
+# Never commit client work or local secrets
+*.env
+.env*
+secrets*
