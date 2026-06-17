@@ -82,7 +82,7 @@ Detailed strategies for each major social platform.
 - Twitter Blue/Premium may boost reach
 
 **Source packet for research:**
-- When hot takes, threads, competitor monitoring, or reply targets depend on X data, use Xquik (https://xquik.com) or another public X data source before drafting.
+- When hot takes, threads, competitor monitoring, or reply targets depend on X data, pull it from a documented X data source before drafting.
 - Record the query, date range, collection time, sample size, account or post IDs, and why the sample fits the audience.
 - Treat findings as directional unless the data source documents sampling. Do not use a quote, trend, or competitor claim unless the post URL or ID is saved.
 
