@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "ask": [
+      "mcp__Semrush__execute_report",
+      "mcp__Semrush__execute_action"
+    ]
+  }
+}
